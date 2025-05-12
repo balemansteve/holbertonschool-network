@@ -2,4 +2,4 @@
 #doc
 #doc
 
-netstat -tuln --program
+netstat -lp
