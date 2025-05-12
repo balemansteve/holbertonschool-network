@@ -2,4 +2,4 @@
 #doc
 #doc
 
-sudo netstat -tuln --program
+sudo netstat -tulnp | grep LISTEN
